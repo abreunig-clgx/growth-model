@@ -1,16 +1,17 @@
 # ignore shapefiles
-*.shp
-*.shx
-*.cpg
-*.prj
-*.dbf
-*.lock
-*.xml
-*_.gstmp
-*.sbn
-*.sbx
-*.dat
-*.rtx
+
+#*.shp
+#*.shx
+#*.cpg
+#*.prj
+#*.dbf
+#*.lock
+#*.xml
+#*_.gstmp
+#*.sbn
+#*.sbx
+#*.dat
+#*.rtx
 
 # ignore txt or logs
 *.log
