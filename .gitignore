@@ -1,0 +1,44 @@
+# ignore shapefiles
+*.shp
+*.shx
+*.cpg
+*.prj
+*.dbf
+*.lock
+*.xml
+*_.gstmp
+*.sbn
+*.sbx
+*.dat
+*.rtx
+
+# ignore txt or logs
+*.log
+*.vscode/
+*.csv
+
+# development python caches
+__pycache__/
+
+
+# ignore spatial compression files
+*.parquet
+*.lyrx
+
+# ignore images
+*.png
+
+# ignore html
+*.html
+
+# ignore rasters
+*.tif
+*.ovr
+*.bat
+*.rrd
+*.tfw
+*.tif.aux
+
+
+# testing config files
+*config.py
