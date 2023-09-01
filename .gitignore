@@ -5,12 +5,12 @@
 #*.cpg
 #*.prj
 #*.dbf
-#*.lock
-#*.xml
-#*_.gstmp
+*.lock
+*.xml
+*_.gstmp
 #*.sbn
 #*.sbx
-#*.dat
+*.dat
 #*.rtx
 
 # ignore txt or logs
